@@ -1,0 +1,58 @@
+h1{
+            text-align: center;
+            border: 2px solid gold;
+            background-color: gray;
+            font-size: 5px;
+            text-align: center;
+            text-transform: uppercase;
+            color: #4CAF50;
+        }
+        .submit
+        {
+            border: 2px solid black;
+            padding: 5px;
+            margin: 5px;
+        }
+        .submit label
+        {
+            margin-left: 2px;
+            padding-left: 2px;
+        }
+        .submit input[type=text]
+        {
+            margin-left: 2px;
+            padding-left: 2px;
+            border: 1px solid black;
+            background-color: gray;
+        }
+        .search
+        {
+            border: 2px solid black;
+            padding: 5px;
+            margin: 5px;
+        }
+        .search label
+        {
+            margin-left: 2px;
+            padding-left: 2px;
+        }
+        .search input[type=text]
+        {
+            margin-left: 2px;
+            padding-left: 2px;
+            border: 1px solid black;
+            background-color: gray;
+        }
+        
+        .table thead {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #04AA6D;
+        color: white;
+        }
+
+        #body tr:nth-child(even){background-color: white;}
+        #body tr:nth-child(odd){background-color: gray;}
+        #body tr:hover {background-color: #befc03;}
+         

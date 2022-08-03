@@ -1,0 +1,5 @@
+1. paste the source code to localhost.
+2. create a database named callreport.
+3. Run the command : php artisan migrate.
+4. Run the command : php artisan db:seed --class=DatabaseSeeder.
+5. Run the project from localhost.
